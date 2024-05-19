@@ -999,7 +999,6 @@ src: url('Avalon-MediumCond.ttf') format('truetype');
 /* Large devices (large desktops) */
 @media only screen and (min-width: 1200px) {
 
-  
   .navbar 
   {
       height: 75px;
@@ -1038,7 +1037,7 @@ src: url('Avalon-MediumCond.ttf') format('truetype');
           filter: blur(4px);
           -webkit-filter: blur(4px);
           opacity: 50%;
-          height: 850px;
+          height: 100%;
       }
   
       .header-text
